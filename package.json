@@ -6,7 +6,6 @@
   "license": "ISC",
   "author": "Brandon MacDonald",
   "type": "module",
-  "main": "eslint.config.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
